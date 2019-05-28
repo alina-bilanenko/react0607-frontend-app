@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:alina-bilanenko/react0607-frontend-app.git",
+    "project_destination_path": "react0607-frontend-app",
+    "application_name": "react0607FrontEnd",
+    "project_technology": "frontend-deployment",
+    "api_url": "https://api.api"
+  }
+}
